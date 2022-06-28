@@ -11,3 +11,4 @@ Creating to a new beanch is quick and simple
 =======
 Creating to a new beanch 'feature2'
 >>>>>>> feature1
+分支管理策略
