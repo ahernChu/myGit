@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick.
 Creating a new branch is quick-3.
 Creating to a new beanch 'feature1'
+Creating to a new beanch 'feature2'
